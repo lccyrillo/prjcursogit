@@ -13,5 +13,6 @@
 >> git remote add origin https://github.com/lccyrillo/prjcursogit.git
 >> git remote -v
 
+>> git remote rm origin (para trocar a origem)
 >> git push -u origin main
 
