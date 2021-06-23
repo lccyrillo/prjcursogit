@@ -41,6 +41,10 @@ git clone https://github.com/lccyrillo/prjcursogit.git .
 >> git push
 
 --> renomear arquivos ou mudar arquivos
+>> git mv
+>> git commit -a -m "20210603_15:30"
+>> git push
+
 
 
 >> git remote rm origin (para trocar a origem)
