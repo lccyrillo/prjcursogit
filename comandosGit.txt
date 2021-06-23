@@ -12,6 +12,15 @@
 >> git branch -M main
 >> git remote add origin https://github.com/lccyrillo/prjcursogit.git
 >> git remote -v
+>> git push -u origin main
+
+adiciona todos os arquivos pendenes
+>> git add .
+
+>> comitar uma alteração em um arquivo
+git commit comandosGit.txt -m "mudança nova"
+
+
 
 >> git remote rm origin (para trocar a origem)
 >> git push -u origin main
