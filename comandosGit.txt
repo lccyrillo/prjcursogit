@@ -45,6 +45,12 @@ git clone https://github.com/lccyrillo/prjcursogit.git .
 >> git commit -a -m "20210603_15:30"
 >> git push
 
+--> uso do git checkout
+--> mexi em um arquivo
+--> git status mostra alteracao
+---> com o git checkout, ele recupera a versão do repositorio remoto
+>> git checkout css/rodape.css
+
 
 
 >> git remote rm origin (para trocar a origem)
