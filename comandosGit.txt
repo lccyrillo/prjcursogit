@@ -21,6 +21,10 @@ adiciona todos os arquivos pendenes
 git commit comandosGit.txt -m "mudança nova"
 teste
 
+--> git commit no repositorio local
+--> git push no repositoro remoto
+>> git push
+
 
 
 >> git remote rm origin (para trocar a origem)
