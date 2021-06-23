@@ -25,6 +25,12 @@ teste
 --> git push no repositoro remoto
 >> git push
 
+--> sincronizar repositorio local com mudanças existentes no servidor
+--> git pull
+>> git pull
+
+
+
 
 
 >> git remote rm origin (para trocar a origem)
