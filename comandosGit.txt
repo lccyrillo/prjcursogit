@@ -19,7 +19,8 @@ adiciona todos os arquivos pendenes
 
 >> comitar uma alteração em um arquivo
 git commit comandosGit.txt -m "mudança nova"
-teste
+
+git commit -a -m "20210603_13:27"
 
 --> git commit no repositorio local
 --> git push no repositoro remoto
@@ -29,7 +30,10 @@ teste
 --> git pull
 >> git pull
 
+--> recuperar dados de um repositorio
+--> entra no diretorio novo e da comando para restaurar dados no diretorio atual
 
+git clone https://github.com/lccyrillo/prjcursogit.git .
 
 
 
