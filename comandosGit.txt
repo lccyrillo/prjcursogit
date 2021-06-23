@@ -37,8 +37,11 @@ git clone https://github.com/lccyrillo/prjcursogit.git .
 
 --> apagar arquivo
 >> git rm teste.html
->> git commit -a -m "20210603_15:08"
+>> git commit -a -m "20210603_15:27"
 >> git push
+
+--> renomear arquivos ou mudar arquivos
+
 
 >> git remote rm origin (para trocar a origem)
 
