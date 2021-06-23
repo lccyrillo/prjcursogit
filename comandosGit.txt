@@ -1,0 +1,15 @@
+--> Verificar se tem repositorio
+>> git status -b
+
+--> Inicializar repositorio
+>> git init
+
+>> git config --global user.email "lccyrillo@gmail.com"
+>> git config --global user.name "Luciano Cavallini Cyrillo"
+
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/lccyrillo/cursodocker.git
+>> git push -u origin main
+To https://github.com/lccyrillo/cursodocker.git
