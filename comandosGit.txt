@@ -19,6 +19,7 @@ adiciona todos os arquivos pendenes
 
 >> comitar uma alteração em um arquivo
 git commit comandosGit.txt -m "mudança nova"
+teste
 
 
 
