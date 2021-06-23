@@ -35,7 +35,9 @@ git commit -a -m "20210603_13:27"
 
 git clone https://github.com/lccyrillo/prjcursogit.git .
 
-
+--> apagar arquivo
+>> git rm teste.html
+>> git commit -a -m "20210603_15:08"
 
 >> git remote rm origin (para trocar a origem)
 >> git push -u origin main
